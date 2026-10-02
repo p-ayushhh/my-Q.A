@@ -1,0 +1,10 @@
+{
+  "description": "Organize and manage personal Q&A, designs, thumbnails, and logos by topic with smooth animations and responsive design for seamless access.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
